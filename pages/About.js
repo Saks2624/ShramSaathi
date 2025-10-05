@@ -73,11 +73,6 @@ At *ShramSaathi* we realise and recognise that each requirement may be different
 This is where our *ShramSaathi* team pitches in to empower our app addressing every requirement to happy placements.</p>
                 </div>
             </section>
-
-            {/* ================================== */}
-            {/* 1. OUR STORY SECTION (Detailed Content) */}
-            {/* ================================== */}
-       
             
             <hr className="section-divider" />
 
@@ -88,7 +83,7 @@ This is where our *ShramSaathi* team pitches in to empower our app addressing ev
                 <div className="container works-container">
                     
                     <div className="works-left">
-                        <p className="works-subtitle">How It Works</p>
+                        
                         <h2 className="section-title works-title">What We Do</h2>
 
                         <div className="works-checklist">
