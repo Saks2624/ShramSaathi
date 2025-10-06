@@ -68,9 +68,9 @@ const AboutUs = () => {
                     <h1>OUR STORY</h1> 
                     <p>It has been always a more challenging approach where our target is to reach every single blue collar employee & related employer out there, nationwide.
 
-At *ShramSaathi* we realise and recognise that each requirement may be different & one-size-fits-all application may fall short of what we have set out to achieve.
+At "ShramSaathi" we realise and recognise that each requirement may be different & one-size-fits-all application may fall short of what we have set out to achieve.
 
-This is where our *ShramSaathi* team pitches in to empower our app addressing every requirement to happy placements.</p>
+This is where our "ShramSaathi" team SAKSHI & SARTHAK  pitches in to empower our web-app addressing every requirement to happy placements.</p>
                 </div>
             </section>
             
@@ -128,7 +128,7 @@ This is where our *ShramSaathi* team pitches in to empower our app addressing ev
             {/* ================================== */}
             <section className="testimonials-section">
                 <div className="container testimonials-container">
-                    <p className="testimonials-subtitle">Clients Testimonials</p>
+                    <p className="testimonials-subtitle"></p>
                     <h2 className="section-title testimonials-title">What Our Customers Say About Us</h2>
 
                     <div className="testimonials-carousel-track" ref={trackRef}>
@@ -178,5 +178,7 @@ This is where our *ShramSaathi* team pitches in to empower our app addressing ev
 };
 
 export default AboutUs;
+
+
 
 
