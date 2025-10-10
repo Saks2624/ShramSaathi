@@ -63,6 +63,12 @@ const Header = () => {
               <li>Construction Workers</li>
               <li>Electricians</li>
               <li>Plumbers</li>
+              <li>Gardner</li>
+              <li>Carpenters</li>
+              <li>Delivery Drivers</li>
+              <li>Housekeeping Staff</li>
+              <li>Security Guards</li>
+              <li>Factory Workers</li>
             </ul>
           </div>
           <div className="card-column">
@@ -79,6 +85,12 @@ const Header = () => {
               <li>Mumbai</li>
               <li>Pune</li>
               <li>Nashik</li>
+              <li>Kolhapur</li>
+              <li>Thane</li>
+              <li>Aurangabad</li>
+              <li>Ahmednagar</li>
+              <li>Solapur</li>
+              <li>Satara</li>
             </ul>
           </div>
         </div>
